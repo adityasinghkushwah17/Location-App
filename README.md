@@ -11,8 +11,8 @@ LocationApp is an Android application that demonstrates how to request and displ
 
 ## Screenshots
 
-![Screenshot1](Screenshots/1.jpg)
-![Screenshot2](Screenshots/2.jpg)
+![Screenshot1](screenshots/1.jpg)
+![Screenshot2](screenshots/2.jpg)
 
 ## Getting Started
 
