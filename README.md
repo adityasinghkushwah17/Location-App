@@ -10,9 +10,9 @@ LocationApp is an Android application that demonstrates how to request and displ
 - Beautiful and modern UI using Jetpack Compose
 
 ## Screenshots
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/adityasinghkushwah17/Location-App/blob/main/1.jpg)" width=50% height=50%>
-![Screenshot1](path_to_screenshot1)
-![Screenshot2](path_to_screenshot2)
+
+![Screenshot1](Screenshots/1.jpg)
+![Screenshot2](Screenshots/2.jpg)
 
 ## Getting Started
 
